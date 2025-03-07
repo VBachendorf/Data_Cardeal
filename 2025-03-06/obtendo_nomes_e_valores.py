@@ -6,7 +6,7 @@ valor_pago = float(input('Total Pagamento do Cliente: '))
 #   João realizou o pagamento de 470.00 R$
 #   João receberá de troco 15.00 R$
 
-#o primeiro print é uma concatenação de strings 
-print('O Cliente ',nome_cliente,' efetuou uma compra de ',total_compra,'R$')
-# o segundo print é um texto único
 print(f'O Cliente {nome_cliente} efetuou uma compra de {total_compra} R$') 
+print(f'{nome_cliente} realizou o pagamento de {valor_pago} R$')
+troco = valor_pago - total_compra 
+print(f'{nome_cliente} receberá de troco {troco} R$')
