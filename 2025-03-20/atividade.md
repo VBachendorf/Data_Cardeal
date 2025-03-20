@@ -24,3 +24,15 @@
 *	Demostre entendimento sobre o tema
 *	Apresente aplicabilidades
 *	**vozes da minha cabeça não são referências**
+<hr>
+
+# Grupos
+| Tema | grupo |
+|--|--|
+| COMPUTAÇÃO DISTRIBUÍDA | 7 |
+SOFTWARE LIVRE| 1 |
+CLOUD STORAGES E COMPUTING| 6 |
+phishing E RAMSOMWARE| 3 |
+LLM PARA EDUCAÇÃO| 4 |
+BANCOS DE DADOS DISTRIBUÍDOS| 2 |
+SCORE DE CRÉDITO - COM USO DE IA | 5 |
